@@ -1,0 +1,264 @@
+*{margin: 0;
+padding: 0;}
+
+
+
+#heading1
+{
+	color: indianred;
+}
+#heading2
+{
+	color: burlywood;
+}
+
+#heading3
+{
+	color:  #3865A5;
+}
+#heading4
+{
+	color:  #3865A5;
+}
+#body1
+{background-color: darkolivegreen;}
+
+#desc
+{
+	font-size: 30px;
+}
+
+#box1
+{
+	height: 30px;
+	width:  300px;
+	background color:   ;
+	border- none;
+	border-radius:  20px; /to give curved edges to your box/
+	color: red;
+	font-size: 25px;
+
+
+}
+
+
+#left
+{
+	height: 99%;
+	width: 39%;
+	float: left;
+	background-image: url("https://cdn.wallpapersafari.com/50/74/3fgwSh.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	border-right: 5px solid #239B56;
+}
+
+#right 
+{
+	height: 99%;
+	width: 60%;
+	float: right;
+}
+
+#heading5
+{
+	margin-top: 2%;
+	text-align: center;
+}
+
+#tagline
+{
+	color: darkolivegreen;
+	margin-top: 1%;
+	text-align: center;
+}
+
+#rbody
+{
+
+}
+
+#form
+{
+	width: 70%;
+	margin-left: 5%;
+}
+#submit
+{
+	background-color: darkolivegreen;
+}
+#Email1
+{
+	width: 30%;
+}
+#Password1 
+{
+	width: 30%;
+}
+.farmer_img
+{
+
+	height: 500px;
+	width: 100%;
+
+}
+#mainbox
+{
+
+	width: 100%;
+	height: 500px;
+}
+
+}
+#mainb
+{
+  background-color: #EFEDE7;
+}
+#stubble 
+{
+	font-family: Georgia, serif;
+	font-size: 25px;
+	color: #43474A;
+	margin-left: 10px;
+}
+#content1
+{
+	font-family: Georgia, serif ;
+    font-size: 20px;
+    color: #43474A;
+    margin-left: 10px;
+}
+#harmfuleffects 
+{
+	font-family: Georgia, serif;
+	font-size: 25px;
+	color: #43474A;
+	margin-left: 10px;
+}
+#content2
+{
+	font-family: Georgia, serif ;
+    font-size: 20px;
+    margin-left: 10px;
+
+}
+#ouraim
+{
+	font-family: Georgia, serif;
+	font-size: 25px;
+	color: #43474A;
+	margin-left: 10px;
+}
+#content3
+{
+	font-family: Georgia, serif ;
+    font-size: 20px;
+    color: #43474A;
+    margin-left: 10px;
+}
+#farmerr 
+{
+	font-family: Georgia, serif;
+	font-size: 60px;
+	color: #0F5132;
+	margin-left: 10px;
+}
+
+
+*{margin: 0; padding: 0;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 99.8%;
+  position: relative;
+
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+
+.machine_images
+{
+	margin: 10px;
+	width: 80%;
+	height: 200px;
+/*	border: 3px solid brown;*/
+}
+#table
+{
+display: flex;
+flex-direction: row;
+/*border: 3px solid red;*/
+}
+.wrapper
+{
+	display: flex;
+	flex-direction: column;
+	/*border: 3px solid purple;*/
+	height: 1500px;
+}
+.image
+{
+  height: 200px;
+  width: 30%;
+  margin-left: 5%;
+  float: left;
+  /*border: 1px solid black;*/
+
+}
+
+#name
+{
+	width: 30%;
+}
